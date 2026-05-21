@@ -1,5 +1,7 @@
 # Hermes Desktop
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 Native macOS companion for Hermes Agent over SSH.
 
 It turns the daily Hermes loop into something you can actually live in on a
